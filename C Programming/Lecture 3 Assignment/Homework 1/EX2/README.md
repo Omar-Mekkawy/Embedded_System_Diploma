@@ -1,4 +1,4 @@
-# Homework 1 - EX1
+# Homework 1 - EX2
 
 ```
 EX2:
