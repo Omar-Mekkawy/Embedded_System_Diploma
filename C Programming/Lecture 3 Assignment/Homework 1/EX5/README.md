@@ -13,4 +13,4 @@ ASCII value of G = 71
 
 # Output
 
-<img src="./Output_EX5.png" width="1080" height="399">
+<img src="./Output_EX6.png" width="1080" height="399">
